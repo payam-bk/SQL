@@ -61,7 +61,7 @@ Special Skills: Jobs in specific areas (like Marketing) pay very well. It is goo
 Work from Anywhere: Many of the best-paying jobs are Remote or Hybrid. You don't always have to go to an office to get a high salary.
 
  
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 Bar graph visualizing the salary for the top 10 salaries for data analysts
 
@@ -104,7 +104,8 @@ Here are the most common skills found in the top 10 highest-paying data analyst 
 
 - Other important skills include R, Snowflake, Pandas, and Excel.
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
+
 Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts.
 
 ### 3. In-Demand Skills for Data Analysts
