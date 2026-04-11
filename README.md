@@ -104,7 +104,7 @@ Here are the most common skills found in the top 10 highest-paying data analyst 
 
 - Other important skills include R, Snowflake, Pandas, and Excel.
 
-![alt text](Images/image-3.png)
+![alt text](Images/image-2.png)
 
 Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts.
 
